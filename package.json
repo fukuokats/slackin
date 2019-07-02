@@ -62,6 +62,9 @@
         "start": "chmod +x bin/slackin && ./bin/slackin"
     },
     "now": {
+        "name": "slackin",
+        "alias": "fukuokats",
+        "public": true,
         "type": "npm",
         "files": [
             "bin",
